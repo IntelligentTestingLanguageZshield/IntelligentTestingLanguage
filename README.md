@@ -1,2 +1,2 @@
-# IntelligentTestingLanguage
+# ITL: IntelligentTestingLanguage
 Intelligent Testing Language
